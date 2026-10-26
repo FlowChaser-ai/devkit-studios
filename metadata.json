@@ -1,0 +1,6 @@
+{
+  "name": "DevKit Studio — Free Developer Tools",
+  "description": "Fast, private, and open-source browser-based developer utilities including JSON Formatter, QR Code Generator, Image Compressor, Color Tools, and Encoders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
